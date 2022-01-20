@@ -2,7 +2,7 @@
 ##
 
 <h3 align="left">Falando um pouco sobre mim ⌨ </h3>
-<div>
+<div style="color:#bf102f;">
 <p>
  <h5 align="justify">Me chamo Gabriel, sou estudante de programação. </h5>
 
